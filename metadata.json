@@ -1,0 +1,6 @@
+{
+  "name": "fx-991EX ClassWiz",
+  "description": "Authentic CASIO fx-991EX CLASSWIZ scientific calculator with Natural Display, solar panel, and complete scientific functions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
